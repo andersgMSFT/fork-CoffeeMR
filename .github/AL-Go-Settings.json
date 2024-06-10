@@ -1,6 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "powerPlatformSolutionFolder": "CoffeMR",
   "environments": [
     "Staging"
@@ -9,5 +9,6 @@
     "environmentName": "Sandbox",
     "companyId": "f1678e37-e50b-ef11-9f8e-6045bdc8c192",
     "ppEnvironmentUrl": "https://orgf287aea1.crm.dynamics.com/"
-   }
+  },
+  "templateSha": "a6b2e468579e02a31a9cc9a2ae178a1e6beadf00"
 }
